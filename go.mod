@@ -1,0 +1,1 @@
+module github.com/Geniuskaa/task1.2.2
